@@ -1,5 +1,4 @@
-# Certifications
-"This repository contains all my academic and professional certifications."
+
 # 📜 My Certifications  
 
 This repository contains all my **academic, professional, and research certifications**, showcasing my expertise in **Data Science, Python, Machine learnig and Research Publications**.  
