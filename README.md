@@ -45,7 +45,7 @@ You can view or download them directly from the respective folders.
 
 ## 🛠️ **Connect With Me**
 
-- 📧 Email: *sahilsathe.work@gmail.com*  
+- 📧 Email: *sahilsathe261@gmail.com*  
 
 
 ---  
